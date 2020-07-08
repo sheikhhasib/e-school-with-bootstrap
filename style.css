@@ -39,6 +39,10 @@
     background-color: #fff;
     box-shadow: 5px 5px 10px 10px #ebebeb;
 }
+.learning-card:hover{
+    background-color: #fff;
+    box-shadow: 5px 5px 10px 10px #ebebeb;
+}
 .courses{
     border-radius: 15px;
 }
@@ -48,7 +52,6 @@
 .courses{
     border-color: #eeeeee;
     box-shadow: 10px 10px 10px #efefef;
-
 }
 .date{
     margin-left: -5%;
